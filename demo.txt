@@ -1,8 +1,8 @@
 demo
 
-git config --global user.name "wangruilian0"
+git config --global user.name ""
 
-git config --global user.email "2483582852@qq.com"
+git config --global user.email ""
 
 
 第一步初始化：git init
